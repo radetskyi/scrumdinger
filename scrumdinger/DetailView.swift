@@ -38,7 +38,7 @@ struct DetailView: View {
     }
 }
 
-struct DetalView_Previews: PreviewProvider {
+struct DetailView_Previews: PreviewProvider {
     static var previews: some View {
         NavigationView{
             DetailView(scrum: DailyScrum.sampleData[0])
