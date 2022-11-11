@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		407DA806291DAA13001D4C86 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 407DA805291DAA13001D4C86 /* DetailView.swift */; };
+		40A99B7D291EF4350041F89E /* DetailEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A99B7C291EF4350041F89E /* DetailEditView.swift */; };
 		40F2B62B291C5B0100D4EB9D /* scrumdingerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F2B62A291C5B0100D4EB9D /* scrumdingerApp.swift */; };
 		40F2B62D291C5B0100D4EB9D /* MeetingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F2B62C291C5B0100D4EB9D /* MeetingView.swift */; };
 		40F2B62F291C5B0300D4EB9D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 40F2B62E291C5B0300D4EB9D /* Assets.xcassets */; };
@@ -41,6 +42,7 @@
 
 /* Begin PBXFileReference section */
 		407DA805291DAA13001D4C86 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		40A99B7C291EF4350041F89E /* DetailEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailEditView.swift; sourceTree = "<group>"; };
 		40F2B627291C5B0100D4EB9D /* scrumdinger.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = scrumdinger.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		40F2B62A291C5B0100D4EB9D /* scrumdingerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = scrumdingerApp.swift; sourceTree = "<group>"; };
 		40F2B62C291C5B0100D4EB9D /* MeetingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingView.swift; sourceTree = "<group>"; };
@@ -115,6 +117,7 @@
 				40F2B65B291C8FC600D4EB9D /* TrailingIconLabelStyle.swift */,
 				40F2B65D291C93D900D4EB9D /* ScrumsView.swift */,
 				407DA805291DAA13001D4C86 /* DetailView.swift */,
+				40A99B7C291EF4350041F89E /* DetailEditView.swift */,
 			);
 			path = scrumdinger;
 			sourceTree = "<group>";
@@ -285,6 +288,7 @@
 			files = (
 				40F2B658291C701500D4EB9D /* DailyScrum.swift in Sources */,
 				407DA806291DAA13001D4C86 /* DetailView.swift in Sources */,
+				40A99B7D291EF4350041F89E /* DetailEditView.swift in Sources */,
 				40F2B65E291C93D900D4EB9D /* ScrumsView.swift in Sources */,
 				40F2B65C291C8FC600D4EB9D /* TrailingIconLabelStyle.swift in Sources */,
 				40F2B656291C6B6E00D4EB9D /* Theme.swift in Sources */,
